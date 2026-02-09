@@ -27,6 +27,9 @@ Piedra, Papel o Tijera: permite jugar contra la computadora
 🔗 Endpoints
 Par o Impar
 GET /parimpar?numero=5
+http://localhost:8080/api/par-impar?numero=10
+http://localhost:8080/api/par-impar?numero=7
+
 
 
 Respuesta:
@@ -55,6 +58,10 @@ mvn spring-boot:run
 La aplicación se ejecuta en:
 
 http://localhost:8080
+http://localhost:8080/piedra-papel-tijera?eleccionUsuario=papel
+http://localhost:8080/piedra-papel-tijera?eleccionUsuario=tijera
+
+
 
 📂 Estructura principal
 src/main/kotlin/com/isaac/juegosbackend/controller
