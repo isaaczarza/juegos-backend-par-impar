@@ -71,6 +71,10 @@ src/main/kotlin/com/isaac/juegosbackend/controller
 En desarrollo.
 Se planea agregar más juegos y mejorar la estructura del backend.
 
+
+Video demostración del nuevo juego:
+https://youtu.be/cwVs1Cht2OE
+
 👤 Autor
 
 Isaac Zarza
